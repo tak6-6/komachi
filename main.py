@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Spyderエディタ
-
-これは一時的なスクリプトファイルです。
+trial code for Komach math pazzle
 """
 
 class Komach:
